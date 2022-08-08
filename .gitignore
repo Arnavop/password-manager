@@ -1,2 +1,12 @@
 
 *.exe
+*.html
+*.toc
+*.zip
+*.pyc
+*.manifest
+*.pyz
+*.pkg
+*.txt
+*.ico
+*.spec
